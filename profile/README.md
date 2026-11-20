@@ -1,4 +1,10 @@
-# Infiquetra
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/infiquetra-llc-lockup-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/infiquetra-llc-lockup-light.svg">
+    <img alt="Infiquetra, LLC" src="./assets/infiquetra-llc-lockup-light.svg" width="320">
+  </picture>
+</p>
 
 [Infiquetra, LLC](https://www.infiquetra.com) is an Indiana parent holding company. [Infiquetra Software LLC](https://www.software.infiquetra.com) is its operating software studio.
 
